@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  http://greatestchickentractor.com/sitemap.xml
