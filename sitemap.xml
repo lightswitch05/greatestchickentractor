@@ -5,12 +5,9 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>http://greatestchickentractor.com/</loc>
+    <loc>https://www.github.developerdan.com/greatestchickentractor</loc>
   </url>
   <url>
-    <loc>http://greatestchickentractor.com/construction.php</loc>
-  </url>
-  <url>
-    <loc>http://greatestchickentractor.com/contact.php</loc>
+    <loc>https://www.github.developerdan.com/greatestchickentractor/construction</loc>
   </url>
 </urlset>
