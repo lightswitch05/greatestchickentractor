@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:  http://greatestchickentractor.com/sitemap.xml
+Sitemap:  https://www.github.developerdan.com/greatestchickentractor/sitemap.xml
